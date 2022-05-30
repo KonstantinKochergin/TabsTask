@@ -1,8 +1,7 @@
 <resources>
     <string name="app_name">TabsTask</string>
     <string name="tab_text_1">Фильмы</string>
-    <string name="tab_text_2">Сериалы</string>
-    <string name="tab_text_3">Книги</string>
+    <string name="tab_text_2">Книги</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
